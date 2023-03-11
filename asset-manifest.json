@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/deploy/static/css/main.073c9b0a.css",
-    "main.js": "/deploy/static/js/main.8f3154c5.js",
-    "static/js/787.f7396729.chunk.js": "/deploy/static/js/787.f7396729.chunk.js",
-    "static/media/logo.svg": "/deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/deploy/index.html",
-    "main.073c9b0a.css.map": "/deploy/static/css/main.073c9b0a.css.map",
-    "main.8f3154c5.js.map": "/deploy/static/js/main.8f3154c5.js.map",
-    "787.f7396729.chunk.js.map": "/deploy/static/js/787.f7396729.chunk.js.map"
+    "main.css": "/static/css/main.e9b82c98.css",
+    "main.js": "/static/js/main.029642c2.js",
+    "static/media/logo.png": "/static/media/logo.41bdbf2421734e8afce1.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/upwork-icon.png": "/static/media/upwork-icon.21b87a333d391c41d618.png",
+    "index.html": "/index.html",
+    "main.e9b82c98.css.map": "/static/css/main.e9b82c98.css.map",
+    "main.029642c2.js.map": "/static/js/main.029642c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8f3154c5.js"
+    "static/css/main.e9b82c98.css",
+    "static/js/main.029642c2.js"
   ]
 }
