@@ -1,1 +1,0 @@
-import{dv as s,j as o,aR as u,a1 as c,r as f,ag as r}from"./index.BDWbwHp_.js";const n=()=>{const{referralCode:e=""}=s(),a=o(u),t=c();return f.useEffect(()=>{if(a||!e){t(r.MAIN);return}localStorage.setItem("referralCode",e),t(r.AUTH)},[a,e]),null};export{n as default};
