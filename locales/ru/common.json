@@ -1,0 +1,18 @@
+{
+  "formErrors": {
+    "requiredEmail": "Please enter your email address.",
+    "requiredPassword": "Please enter your password.",
+    "notMatchPassword": "Passwords don't match",
+    "email": "This does not look like a real email address. Please check it for typos and try again.",
+    "minLength": "Your password is less than {{count}} characters long",
+    "maxLength": "Your password is more than {{count}} characters long"
+  },
+  "strongPassword": {
+    "high": "Strong Password",
+    "middle": "Your password can be stronger",
+    "no_lower": "Your password should contain at least 1 lowercase letter",
+    "no_upper": "Your password should contain at least 1 uppercase letter",
+    "no_number": "Your password should contain at least 1 number",
+    "bad_length": "Your password should contain at least 5 characters"
+  }
+}

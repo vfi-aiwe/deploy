@@ -1,0 +1,1 @@
+const a=(e,r)=>{const t=e.toLocaleDateString("en-US",{month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"}).split(" ");return r?`${t[1].replace(",","")} ${t[0]}, ${t[2]} ${t[3]}`:`${t[1]} ${t[0]}`.replace(",","")};export{a as g};

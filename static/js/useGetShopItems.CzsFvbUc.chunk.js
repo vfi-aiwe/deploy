@@ -1,0 +1,1 @@
+import{gD as u,aC as p,r as a}from"./index.BDWbwHp_.js";const I=()=>{const[e,{data:s}]=u(),o=p(),[m,n]=a.useState(s&&s?.length>0?s:[]),c=a.useMemo(()=>m.map(t=>({...t,item:o.find(r=>r.id===t.item.id)})).filter(t=>!!t.item),[m,o]),i=async()=>e();return a.useEffect(()=>{(async()=>await e().unwrap().then(t=>t&&n(t)))()},[e]),{items:c,getMore:i}};export{I as u};

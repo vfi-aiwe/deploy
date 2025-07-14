@@ -1,0 +1,1 @@
+import{g4 as t,B as s,g5 as a,bu as r}from"./index.BDWbwHp_.js";const l=()=>{const{loader:e}=t();return s.jsxs(a,{resolve:e,children:[s.jsx("h1",{children:"FAQ"}),s.jsx(r,{})]})};export{l as default};
