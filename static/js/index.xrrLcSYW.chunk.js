@@ -1,0 +1,1 @@
+import{a1 as t,B as e,ag as r}from"./index.BDWbwHp_.js";import{f4 as m}from"./index.CMGJEYRC.chunk.js";import"./relativeTime.DEMDksMo.chunk.js";const c=({page:s="terms"})=>{const a=t(),o=()=>{a(r.MAIN)};return e.jsx(m,{page:s,onClose:o})};export{c as default};

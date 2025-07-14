@@ -1,0 +1,6 @@
+{
+  "unactivedEmail": "Your email {{email}} is not confirmed. Go to your email and click on the link to confirm your email and finish your account setup.",
+  "sendEmail": "Send email",
+  "sendEmailSuccess": "Email sent!",
+  "sendEmailError": "Oops :/"
+}

@@ -1,0 +1,14 @@
+{
+  "bundles": {
+    "Fullstack Blockchain Legend": "Blockchain, golden chain, muscle gain, be the bane",
+    "Frontend Master With JavaScript": "Create any frontend website of any difficulty with this course!",
+    "Trading Guru": "Everything you need to know about trading in these courses",
+    "DeFi A-Z course": "Everything you need to know about DeFi in these courses",
+    "Favourites-empty": "Currently you don't have favourite courses. Click on a star to make one.",
+    "Favourites": "Courses that you favour",
+    "Data science": "Everything you need to know about data science in these courses",
+    "Programming courses": "Study the full suite of programming languages, design patterns and frameworks and become a developer everyone wants to hire.",
+    "Blockchain and Web3 Courses": "Aspire to create your startup or get a job in this new promising sector? Learn everything there is to know about Blockchain, Cryptocurrencies, Bitcoin and Web3.",
+    "Others": "These courses are probably made for development purposes"
+  }
+}
